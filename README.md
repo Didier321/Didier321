@@ -44,3 +44,5 @@
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zd4t4mwxr5ythuafcbmgrjzioa&count={count})
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zd4t4mwxr5ythuafcbmgrjzioa&cover_image=true&theme=default&show_offline=false&background_color=6bb3ff&interchange=false&bar_color_cover=true&bar_color=eb0000)](https://github.com/kittinan/spotify-github-profile)
