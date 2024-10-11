@@ -31,10 +31,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didier321&layout=compact&theme=vue-dark&card_width=470px)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Didier321/Didier321/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Didier321/Didier32/output/snake.svg" alt="Snake animation" />
 
 ###
