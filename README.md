@@ -32,5 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didier321&layout=compact&theme=vue-dark&card_width=470px)
 
 
-![snake animation](https://github.com/Didier321/Didier321/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/Didier321/Didier321/output/snake.svg" alt="Snake animation" />
+
+###
 
