@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Didier321&show_icons=true&theme=vue-dark" width="500px" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didier321&layout=compact&theme=vue-dark&card_width=100px)
+<img src="https://github-readme-stats.vercel.app/api?username=Didier321&show_icons=true&theme=vue-dark" width="300px" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didier321&layout=compact&theme=vue-dark&card_width=100px)
 
 </div>
 
