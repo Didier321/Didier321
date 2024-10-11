@@ -36,10 +36,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31zd4t4mwxr5ythuafcbmgrjzioa?si=a92b824d69fe4a2b">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31zd4t4mwxr5ythuafcbmgrjzioa?si=a92b824d69fe4a2b&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+![snake animation](https://github.com/Didier321/Didier321/blob/output/github-contribution-grid-snake2.svg)
