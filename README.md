@@ -27,9 +27,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Anurag's](https://github-readme-stats.vercel.app/api?username=Didier321&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didier321&layout=compact&theme=vue-dark&card_width=470px)
+<div align="center">
+
+![Anurag's](https://github-readme-stats.vercel.app/api?username=Didier321&show_icons=true&theme=vue-dark&card_width=100px) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didier321&layout=compact&theme=vue-dark&card_width=100px)
+
+</div>
 
 
 
