@@ -8,10 +8,14 @@
 </h1>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/didier-castañeda-borja-741185274)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](borjadidierestiben@gmail.com)
+ Soy Didier Castañeda Borja, tecnólogo en análisis y desarrollo de software con 6 meses de experiencia como desarrollador Full-Stack. He trabajado en proyectos utilizando Java, Spring Boot, JavaScript, React.js, Next.js, Python y MySql. Me apasionan los retos poder aprender e innovar cada dia, siempre busco aprender nuevas tecnologias, tendencias y poder darles utilidad en mi dia a dia.
 
-## Skills
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/didier-castañeda-borja-741185274/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borjadidierestiben@gmail.com)
+
+
+## Tecnologías 💻
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
