@@ -8,7 +8,7 @@
 </h1>
 </div>
 
- Soy Didier Castañeda Borja, tecnólogo en análisis y desarrollo de software con 6 meses de experiencia como desarrollador Full-Stack. He trabajado en proyectos utilizando Java, Spring Boot, JavaScript, React.js, Next.js, Python y MySql. Me apasionan los retos poder aprender e innovar cada dia, siempre busco aprender nuevas tecnologias, tendencias y poder darles utilidad en mi dia a dia.
+ Soy Didier Castañeda Borja, tecnólogo en análisis y desarrollo de software con experiencia como desarrollador. He trabajado en proyectos utilizando Java, Spring Boot, JavaScript, React.js, Next.js, Python y MySql. Me apasionan los retos poder aprender e innovar cada dia, siempre busco aprender nuevas tecnologias, tendencias y poder darles utilidad en mi dia a dia.
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/didier-castañeda-borja-741185274/)
