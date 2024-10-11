@@ -32,4 +32,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didier321&layout=compact&theme=vue-dark&card_width=470px)
 
 
-![Snake](https://raw.githubusercontent.com/Didier321/Didier32/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Didier321/Didier321/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
