@@ -46,10 +46,11 @@
 ### 
 
 
+<div id="banner"align="center">
+<img src="./footer-banner.png"/>
+</div>
 
->[!TIP]
->**"Medir el progreso de la programación por líneas de código es como medir el progreso de la construcción de aviones por el peso".**
-> – *Bill Gates*
+
 
 
 
