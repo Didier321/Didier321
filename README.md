@@ -45,7 +45,8 @@
 
 ###
 
-<p style="font-size: 18px; font-style: italic;">
-  "Medir el progreso de la programación por líneas de código es como medir el progreso de la construcción de aviones por el peso."
-  <br>– <strong>Bill Gates</strong>
-</p>!<img src="https://your-image-url.com/imagen.png" />
+<blockquote align="center" style="font-size: 18px; font-style: italic; color: #2B5BBD; border-left: 5px solid #2B5BBD; padding-left: 10px;">
+    "Medir el progreso de la programación por líneas de código es como medir el progreso de la construcción de aviones por el peso."
+    <br>– <strong>Bill Gates</strong>
+</blockquote>
+
