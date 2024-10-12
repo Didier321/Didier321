@@ -43,10 +43,17 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20zODB0andvazBibGN4aXpiejB0YmowajE3ZTZqdnFyaWZjZzl0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JujkU9Ovzk2i3iaYFA/giphy.webp/giphy.gif" width="100"/>[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zd4t4mwxr5ythuafcbmgrjzioa&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=eb0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
-###
+### 
 
-<blockquote align="center" style="font-size: 18px; font-style: italic; color: #2B5BBD; border-left: 5px solid #2B5BBD; padding-left: 10px;">
-    "Medir el progreso de la programación por líneas de código es como medir el progreso de la construcción de aviones por el peso."
-    <br>– <strong>Bill Gates</strong>
-</blockquote>
+
+
+>[!NOTE]
+>**"Medir el progreso de la programación por líneas de código es como medir el progreso de la construcción de aviones por el peso".**
+> – *Bill Gates*
+
+
+
+
+
+
 
